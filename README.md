@@ -69,7 +69,7 @@ I am Suyash Khare, a passionate deep learning specialist with expertise in Pytho
 - **Libraries & Tools:**
   - Pandas, NumPy, Matplotlib, Plotly, Seaborn
   - GSAP
-  - OpenBCI GUI, Emotiv Epoch X, Ganglion (Neurotechnology Tools)
+  - OpenBCI GUI, Emotiv Epoch X, Cyton, Ganglion (Neurotechnology Tools)
 
 ---
 
