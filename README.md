@@ -1,10 +1,10 @@
 # Suyash Khare
 
-<h1>Welcome to my GitHub profile! I am a Deep Learning and Brain Computer Interfaces(BCIs) Specialist with a strong background in various programming languages and a keen interest in medical and technologial applications.</h1>
+Welcome to my GitHub profile! I am a Deep Learning and Brain Computer Interfaces(BCIs) Specialist with a strong background in various programming languages and a keen interest in medical and technologial applications.
 
 # About Me
 
-<p>I am Suyash Khare, a passionate deep learning specialist with expertise in Python, JavaScript, Rust, C, and C++. My professional journey has been dedicated to harnessing deep learning methodologies to tackle complex challenges, particularly within the medical domain. In addition, I possess comprehensive knowledge and hands-on experience in full-stack web development, having delivered real-world projects utilizing the MERN stack.</p>
+I am Suyash Khare, a passionate deep learning specialist with expertise in Python, JavaScript, Rust, C, and C++. My professional journey has been dedicated to harnessing deep learning methodologies to tackle complex challenges, particularly within the medical domain. In addition, I possess comprehensive knowledge and hands-on experience in full-stack web development, having delivered real-world projects utilizing the MERN stack.
 
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
