@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a Deep Learning and Brain Computer Interfaces
 
 # About Me
 
-I am Suyash Khare, a passionate deep learning specialist with expertise in Python, JavaScript, Rust, C, and C++. My professional journey has been dedicated to harnessing deep learning methodologies to tackle complex challenges, particularly within the medical domain. In addition, I possess comprehensive knowledge and hands-on experience in full-stack web development, having delivered real-world projects utilizing the MERN stack.
+I am Suyash Khare, a passionate deep learning specialist with expertise in Python, JavaScript, C, and C++. My professional journey has been dedicated to harnessing deep learning methodologies to tackle complex challenges, particularly within the medical domain. In addition, I possess comprehensive knowledge and hands-on experience in full-stack web development, having delivered real-world projects utilizing the MERN stack.
 
 ### My CV : <a href="https://drive.google.com/file/d/1sLZjBFIV1xmUr6uQL_rTspYpqhbObM6n/view?usp=sharing" target="_blank">Suyash's CV</a>
 
@@ -15,7 +15,7 @@ I am Suyash Khare, a passionate deep learning specialist with expertise in Pytho
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42" /></a>
+<!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42" /></a> -->
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -42,7 +42,6 @@ I am Suyash Khare, a passionate deep learning specialist with expertise in Pytho
 - **Programming Languages:**
   - Python
   - JavaScript
-  - Rust
   - C
   - C++
   - SQL
