@@ -9,9 +9,19 @@ I am Suyash Khare, a passionate deep learning specialist with expertise in Pytho
 ### My CV : <a href="https://drive.google.com/file/d/1sLZjBFIV1xmUr6uQL_rTspYpqhbObM6n/view?usp=sharing" target="_blank">Suyash's CV</a>
 
 
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+</p>
 
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
@@ -33,7 +43,7 @@ I am Suyash Khare, a passionate deep learning specialist with expertise in Pytho
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>
-</p>
+</p> -->
 
 ---
 
